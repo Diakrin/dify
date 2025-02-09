@@ -1,4 +1,4 @@
-## update from fork to Diakrin
+## Update from fork to Diakrin
 
 ```bash
 git fetch upstream
